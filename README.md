@@ -1,0 +1,1 @@
+renovateの動作検証用repository
