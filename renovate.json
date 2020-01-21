@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "config:base",
+    ":pinAllExceptPeerDependencies"
+  ],
+  "enabledManagers": ["npm", "github-actions"]
+}
